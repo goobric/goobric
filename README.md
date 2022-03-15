@@ -1,7 +1,7 @@
 ### Hello Coders 🤖
 
 <!--
-**goobric/goobric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**goobric/goobric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: publicly via twitter @goobric
 - 😄 Pronouns: they, their, them
 - ⚡ Fun fact: I met Princess Diana on a number of occasions whilst working at Harrods.
--->
