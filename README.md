@@ -1,9 +1,12 @@
-### Hello Coders 🤖
+### Hello Problem Solvers 🤖
 
 <!--
 **goobric/goobric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
+# I'm goobric aka Mikal
+## commUNITY is Key to upLifting each other.
+### I passionately believe in kindness & equity.
+### A successful future should not be hindered by access to resources
+### Allyship
 
 - 🔭 I’m currently working on improving my GitHub presence
 - 🌱 I’m currently learning advance html, css & vanilla JS
