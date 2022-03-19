@@ -2,7 +2,7 @@
 
 <!--
 **goobric/goobric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# I'm goobric aka Mikal <img src="/master/grow.gif" width="48px" height="48px" alt="continue to grow">
+# I'm goobric aka Mikal <img src="https://github.com/goobric/goobric/blob/main/grow.gif" width="48px" height="48px" alt="continue to grow">
 ## commUNITY is Key to upLifting each other. I passionately believe in kindness & equity. A successful future should not be hindered by access to resources. Allyship
 
 ### Skills: Communication - Collaboration - Critical Thinking - Creativity (4Cs of learning)
