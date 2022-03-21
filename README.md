@@ -48,7 +48,7 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][githubplaylist]
 
 <br />
----
+
 [website]: https://goobric.io
 [twitter]: https://twitter.com/goobric
 [youtube]: https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q
