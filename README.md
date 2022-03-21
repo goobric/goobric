@@ -48,13 +48,14 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 <br />
+---
 [website]: https://goobric.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/goobric
 [youtube]: https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q
 [instagram]: https://instagram.com/goobric007
 [linkedin]: https://linkedin.com/in/mikal-laane-4a448a22b
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
