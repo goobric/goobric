@@ -26,11 +26,11 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/goobric007#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/goobric007#gh-dark-mode-only)
-&nbsp;&nbsp:
+&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-dark-mode-only)
 &nbsp;&nbsp;
 
