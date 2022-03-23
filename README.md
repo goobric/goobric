@@ -18,20 +18,20 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/goobric#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/goobric#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/goobric#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/goobric#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://goobric.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://goobric.io#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://goobric.io#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://goobric.io#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/goobric007#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/goobric007#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/goobric007#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/goobric007#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-dark-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCAAilPYAPiE0Npi2mvkUZ9Q#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mikal-laane-4a448a22b#gh-light-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
@@ -41,10 +41,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][fCCplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_C27gYHWjXxHZ33U-AXji3o#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_C27gYHWjXxHZ33U-AXji3o#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_DhiIYIQUIjpzcJQhv-jLcn#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_DhiIYIQUIjpzcJQhv-jLcn#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_C27gYHWjXxHZ33U-AXji3o#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_C27gYHWjXxHZ33U-AXji3o#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_DhiIYIQUIjpzcJQhv-jLcn#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLRUPP9Bsea_DhiIYIQUIjpzcJQhv-jLcn#gh-dark-mode-only)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][githubplaylist]
 
 
