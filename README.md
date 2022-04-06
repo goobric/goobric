@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on improving my GitHub presence
 - 🌱 I’m currently learning advance html, css & vanilla JS
-- 👯 I’m looking to collaborate on new2tec, codenewbie-friendly Open Source Projects
+- 👯 I’m looking to collaborate on new2tech, codenewbie-friendly Open Source Projects
 - 🤔 I’m looking for help with pivoting into #tech via self-taught route
 - 💬 Ask me about how to #learn
 - 📫 How to reach me: publicly via twitter @goobric
