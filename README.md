@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on new2tech, codenewbie-friendly Open Source Projects
 - 🤔 I’m looking for help with pivoting into #tech via self-taught route
 - 💬 Ask me about how to #learn
+- ⚡ Fun fact: I met Princess Diana on a number of occasions whilst working at Harrods.
 - 📫 How to reach me: publicly via twitter @goobric
 - 😄 Pronouns: they, their, them
-- ⚡ Fun fact: I met Princess Diana on a number of occasions whilst working at Harrods.
 
 ### Connect with me:
 
