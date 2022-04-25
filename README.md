@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with pivoting into #tech via self-taught route
 - 💬 Ask me about how to #learn
 - ⚡ Fun fact: I met Princess Diana on a number of occasions whilst working at Harrods.
-- 📫 How to reach me: publicly via twitter @goobric
+- 📫 How to reach me: publicly via twitter [@goobric](https://twitter.com/goobric)
 - 😄 Pronouns: they, their, them
 
 ### Connect with me:
